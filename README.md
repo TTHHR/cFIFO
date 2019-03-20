@@ -15,3 +15,11 @@ for(length=0;length<RxMessage.DLC;length++)
   读取
   for(tmp=0;tmp<length;tmp++)
 		data[tmp]=CanFIFORead(&canFifo);
+
+
+# StringTool
+c语言字符串工具
+
+用法
+
+看源代码
